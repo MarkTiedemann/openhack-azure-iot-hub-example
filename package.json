@@ -1,0 +1,16 @@
+{
+	"name": "openhack",
+	"version": "0.0.0",
+	"private": true,
+	"dependencies": {
+		"azure-iot-device": "*",
+		"azure-iot-device-mqtt": "*",
+		"uuid": "*",
+		"chalk": "*"
+	},
+	"devDependencies": {
+		"typescript": "*",
+		"@types/node": "*",
+		"@types/uuid": "*"
+	}
+}
